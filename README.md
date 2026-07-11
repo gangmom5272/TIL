@@ -6,7 +6,7 @@
 
 - SQL 문제 풀이를 통해 데이터 조회 역량 강화
 - CS 기초 개념 정리
-- PostgreSQL과 데이터 모델링 학습
+- MySQL과 데이터 모델링 학습
 - ETL, Batch Processing, Data Pipeline 개념 학습
 
 ## Categories
@@ -25,7 +25,7 @@
 
 ### Database
 
-- PostgreSQL
+- MySQL
 - Data Modeling
 - Index
 - Transaction
