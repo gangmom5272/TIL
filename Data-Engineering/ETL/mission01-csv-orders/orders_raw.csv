@@ -1,0 +1,7 @@
+order_id,user_id,product_name,category,price,quantity,status,order_date
+1,101,keyboard,computer,30000,1,paid,2026-07-01
+2,102,mouse,computer,15000,2,paid,2026-07-01
+3,103,monitor,computer,200000,1,canceled,2026-07-02
+4,101,usb cable,accessory,5000,3,paid,2026-07-02
+5,104,chair,furniture,80000,1,paid,2026-07-03
+6,105,desk,furniture,120000,1,canceled,2026-07-03

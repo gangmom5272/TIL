@@ -1,0 +1,5 @@
+order_id,user_id,product_name,category,total_price,order_date
+1,101,keyboard,computer,30000,2026-07-01
+2,102,mouse,computer,30000,2026-07-01
+4,101,usb cable,accessory,15000,2026-07-02
+5,104,chair,furniture,80000,2026-07-03
